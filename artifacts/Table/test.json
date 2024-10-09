@@ -1,0 +1,24 @@
+{
+	"id": "0bc91633-9385-ef11-9f32-b03cdca73631",
+	"createdAt": "2024-10-08T16:34:34.756Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"fields": [
+		{
+			"id": "15be0091-7b2f-4fc8-fb69-97dc7d594662",
+			"fieldName": "a",
+			"fieldType": "smalltext",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "test",
+	"description": null,
+	"ver": "24.10.08.1839",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "903210ac-c384-ef11-9f32-b03cdca73631",
+	"generationStrategy": "uuid",
+	"rolesRead": [],
+	"rolesWrite": []
+}

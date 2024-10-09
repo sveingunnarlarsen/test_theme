@@ -1,0 +1,11 @@
+{
+	"id": "9c49523e-ca84-ef11-9f32-b03cdca73631",
+	"createdAt": "2024-10-07T16:36:11.676Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"name": "DevelopmentRead",
+	"description": null,
+	"ver": "24.10.07.1836",
+	"isGlobalAdmin": false,
+	"package": "903210ac-c384-ef11-9f32-b03cdca73631",
+	"acl": []
+}

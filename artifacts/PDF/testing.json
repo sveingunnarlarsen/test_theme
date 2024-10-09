@@ -1,0 +1,61 @@
+{
+	"id": "37f049bb-c384-ef11-9f32-b03cdca73631",
+	"createdAt": "2024-10-07T15:49:27.743Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"interface": [],
+	"objects": [
+		{
+			"fieldNo": "87205e1b-8e02-4dcf-c130-f60424c6706d",
+			"fieldName": "Content1",
+			"fieldParent": 0,
+			"fieldPos": 1,
+			"fieldType": "neptune.pdf.content",
+			"attributes": []
+		},
+		{
+			"fieldNo": "e99d762c-123b-4d75-b22d-07b29455375e",
+			"fieldName": "Settings",
+			"fieldParent": 0,
+			"fieldPos": 2,
+			"fieldType": "neptune.pdf.settings",
+			"fieldDescription": "PDF Settings",
+			"attributes": []
+		},
+		{
+			"fieldNo": "8a437947-0bb4-4501-f7eb-0ac4be0f7000",
+			"fieldName": "Content",
+			"fieldParent": 0,
+			"fieldPos": 3,
+			"fieldType": "neptune.pdf.content",
+			"fieldDescription": "Main PDF content area ",
+			"attributes": []
+		},
+		{
+			"fieldNo": "1fcb9518-d7e5-4fda-bc87-cb7ab04fb06c",
+			"fieldName": "Table",
+			"fieldParent": "8a437947-0bb4-4501-f7eb-0ac4be0f7000",
+			"fieldPos": 4,
+			"fieldType": "neptune.pdf.table",
+			"attributes": []
+		},
+		{
+			"fieldNo": "bc5e2c44-d396-444b-baba-f21fb7939f63",
+			"fieldName": "Styles",
+			"fieldParent": 0,
+			"fieldPos": 5,
+			"fieldType": "neptune.pdf.styles",
+			"fieldDescription": "Define your custom styles and assign to objects",
+			"attributes": []
+		}
+	],
+	"application": "testing",
+	"description": "",
+	"status": "Active",
+	"disabled": false,
+	"ver": "24.10.07.1901",
+	"publicAccess": false,
+	"enableStorage": false,
+	"dd": "dd = {'content': [],'content': [{'table': {'body': []}}],'styles': {}}",
+	"testdata": "",
+	"package": "903210ac-c384-ef11-9f32-b03cdca73631"
+}

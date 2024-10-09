@@ -1,0 +1,16 @@
+{
+	"id": "f055d11b-9585-ef11-9f32-b03cdca73631",
+	"createdAt": "2024-10-08T16:48:14.510Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"settings": {
+		"tableid": "0bc91633-9385-ef11-9f32-b03cdca73631"
+	},
+	"documentation": {},
+	"name": "test",
+	"description": null,
+	"group": null,
+	"type": "T",
+	"ver": "24.10.08.1848",
+	"disabled": false,
+	"package": "903210ac-c384-ef11-9f32-b03cdca73631"
+}

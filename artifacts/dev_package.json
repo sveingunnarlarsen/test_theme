@@ -1,0 +1,123 @@
+{
+	"id": "903210ac-c384-ef11-9f32-b03cdca73631",
+	"createdAt": "2024-10-07T15:49:02.200Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/sveingunnarlarsen/test_theme.git"
+	},
+	"name": "Development",
+	"description": null,
+	"ver": "24.10.09.1935",
+	"enableCICD": true,
+	"excludeTemplateFiles": true,
+	"roles": [
+		{
+			"id": "760DE744-D27C-EF11-9F2D-B03CDCA73631",
+			"createdAt": "2024-09-27T13:13:22.280Z",
+			"updatedAt": "2024-09-27T13:14:15.642Z",
+			"createdBy": "svein.gunnar.larsen@neptune-software.com",
+			"changedBy": "admin",
+			"name": "GlobalAdmin",
+			"description": null,
+			"ver": "24.09.27.1514",
+			"isGlobalAdmin": true,
+			"package": null,
+			"verb": "EDIT"
+		},
+		{
+			"id": "9C49523E-CA84-EF11-9F32-B03CDCA73631",
+			"createdAt": "2024-10-07T16:36:11.676Z",
+			"updatedAt": "2024-10-07T16:36:18.395Z",
+			"createdBy": "svein.gunnar.larsen@neptune-software.com",
+			"changedBy": "svein.gunnar.larsen@neptune-software.com",
+			"name": "DevelopmentRead",
+			"description": null,
+			"ver": "24.10.07.1836",
+			"isGlobalAdmin": false,
+			"package": "903210AC-C384-EF11-9F32-B03CDCA73631",
+			"verb": "READ"
+		}
+	],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [
+		{
+			"id": "0bc91633-9385-ef11-9f32-b03cdca73631",
+			"name": "test",
+			"description": null
+		}
+	],
+	"jsclass": [
+		{
+			"id": "881e18a9-c884-ef11-9f32-b03cdca73631",
+			"name": "test",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "c696dea1-c884-ef11-9f32-b03cdca73631",
+			"name": "test_debugger",
+			"description": ""
+		}
+	],
+	"theme": [],
+	"pdf": [
+		{
+			"id": "37f049bb-c384-ef11-9f32-b03cdca73631",
+			"application": "testing",
+			"description": ""
+		}
+	],
+	"rulesengine": [],
+	"reports": [
+		{
+			"id": "f255d11b-9585-ef11-9f32-b03cdca73631",
+			"name": "test",
+			"description": "",
+			"application": "planet9_adaptive_list"
+		}
+	],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"tile_layout": [],
+	"category": [],
+	"tilegroup_layout": [],
+	"launchpad": [],
+	"launchpad_layout": [],
+	"certificates": [],
+	"role": [
+		{
+			"id": "9c49523e-ca84-ef11-9f32-b03cdca73631",
+			"name": "DevelopmentRead",
+			"description": null
+		}
+	],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [
+		{
+			"id": "f055d11b-9585-ef11-9f32-b03cdca73631",
+			"name": "test",
+			"description": null
+		}
+	],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [
+		{
+			"id": "c207b35b-205f-4b63-9d52-5be267b562dc",
+			"theme": "neptune_hurricanes_dark",
+			"description": "Neptune Hurricanes Dark 1.120"
+		}
+	]
+}

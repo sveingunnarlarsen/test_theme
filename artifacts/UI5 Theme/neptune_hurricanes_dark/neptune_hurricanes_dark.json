@@ -1,0 +1,11 @@
+{
+	"id": "c207b35b-205f-4b63-9d52-5be267b562dc",
+	"createdAt": "2024-10-03T19:27:18.386Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"theme": "neptune_hurricanes_dark",
+	"ver": "24.10.09.1936",
+	"ui5ver": "1.120.21",
+	"extends": "sap_horizon_dark",
+	"description": "Neptune Hurricanes Dark 1.120",
+	"package": "903210ac-c384-ef11-9f32-b03cdca73631"
+}
